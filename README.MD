@@ -21,4 +21,4 @@ Logo -------- Bodoni FLF, bold-italic, tamanho 40;
 Subtítulos ----- Open Sans, bold, uppercase, tamanho 15;
 Texto ---------- Open Sans, normal, tamanho 14;
 ________________________________________________________
-Desenvolvido por: Mikaela Estrade;
+Desenvolvido por: Mikaela Estrade, Vinnycius Medina
